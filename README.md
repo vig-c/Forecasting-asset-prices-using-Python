@@ -1,4 +1,4 @@
-# UoE-Projects
+# Asset Pricing by Autoencoder + LSTM
 This report explores the application of machine learning techniques to asset pricing, specifically for stock return forecasting. The project utilizes three different models, including an Autoencoder + LSTM, an LSTM, and XGBoost. The data used is the full firm characteristics dataset from 1980 to 2020, but the analysis focuses on the 2016-2020 dataset. Additionally, the SHAP (SHapley Additive exPlanations) method is used to identify the most important features that contribute to stock returns in the models.
 
 Overall, this report suggests that simpler models like XGBoost may perform better than complex models like LSTM and Autoencoder + LSTM for stock return forecasting tasks, but this conclusion may not hold true for all forecasting tasks and is subject to variation based on the complexity and characteristics of the data. The findings can provide valuable insights into the benefits and challenges of using machine learning in asset pricing and the potential practical applications of this knowledge in investment strategies and portfolio management.
